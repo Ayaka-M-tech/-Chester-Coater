@@ -40,6 +40,10 @@ clear: both;
   background: white;
 }
 
+.slick-dots li button:before {
+      font-size: 0px;
+    }
+
  /* 矢印のいち↓ */
 .slick_container {
     width:360px; /* 任意の値 */
