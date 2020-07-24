@@ -40,9 +40,9 @@ clear: both;
   background: white;
 }
 
-.slick-dots li button:before {
-      font-size: 0px;
-    }
+.slick-visual .slick-dots li button:before {
+    font-size: 40px;
+}
 
  /* 矢印のいち↓ */
 .slick_container {
