@@ -149,7 +149,7 @@
 }
 .slick-dots li button
 {
-    font-size: 0;
+    font-size: 15px;
     line-height: 0;
 
     display: block;
